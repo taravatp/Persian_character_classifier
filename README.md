@@ -1,7 +1,7 @@
 # Persian character classifier
 Python program to classify persian characters, including letters and digits.
 * I have used the Lenet architecture to design two models: letter classifier and digit classifier..
-* Trained these networks on a self-gathered data set, collected from all class students.
+* Trained these networks on a self-gathered data set.
 * Achieved a test accuracy higher than 90%.
 
 # Results
