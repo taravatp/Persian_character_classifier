@@ -18,4 +18,4 @@ Python program to classify persian characters, including letters and digits.
 # Results
 
 Giving the image forms like below, this program is able ro recognize the firstname, lastname, student number and degree.
-<img src="https://github.com/taravatp/Persian_character_classifier/blob/main/results.png" width="500" height="400">
+<img src="https://github.com/taravatp/Persian_character_classifier/blob/main/results.png" width="500" height="600">
