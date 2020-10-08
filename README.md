@@ -3,7 +3,7 @@ Python program to classify persian characters, including letters and digits.
 * We have used the Lenet architecture to design two models: letter classifier and digit classifier..
 * Trained these networks on a self-gathered data set.
 * Achieved a test accuracy higher than 90%.
-* we have also used OpenCv function to recognize which check box of the input image has been filled.
+* we have also used OpenCV function to recognize which check box of the input image has been filled.
 
 # Models
 ## Digit Model
